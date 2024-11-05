@@ -62,4 +62,4 @@ To run the tests, JUnit must be added as a library.
 
 ---
 
-This exercise helps you develop and test your coding skills, along with learning to set up and use JUnit in a Java project. Good luck, and happy coding!
+#### IMPLEMENTED 🔥 [https://github.com/ShakilAhmmed/macs-vub-bank-v2]
